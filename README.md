@@ -8,13 +8,13 @@
 
 <h2> Education:</h2>
 
-Bachelors of Science, Cyber Secruity and Information Assurance (Expected July 2024)
+Bachelors of Science, Cyber Secruity and Information Assurance (Expected July, 2024)
 
 Bachelors of Science, Biology
 
 <h2>Certifications:</h2>
 
-  - [Comptia A+] 
+  - [Comptia A+]
   
   - [CCNA (Certified Cisco Network Associate)] (https://www.credly.com/badges/69159662-edd2-44ba-ad3a-5a681b8adb62/public_url)
 
