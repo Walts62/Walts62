@@ -14,7 +14,7 @@ Bachelors of Science, Biology
 
 <h2>Certifications:</h2>
 
-  - [Comptia A+]
+  - [Comptia A+] (https://www.credly.com/earner/earned/badge/dc3ccb85-65ee-41ec-aa3d-0315f7991d8e)
   
   - [CCNA (Certified Cisco Network Associate)] (https://www.credly.com/badges/69159662-edd2-44ba-ad3a-5a681b8adb62/public_url)
 
