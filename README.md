@@ -2,10 +2,9 @@
 
 <h2>General IT Projects:</h2>
 
-  - [Active Directory Home Lab] (https://github.com/walts62/ActiveDirectoryHomeLab)
+  - [Active Directory Home Lab](https://github.com/walts62/ActiveDirectoryHomeLab)
 
-  - [Active Directory Home Lab] (https://github.com/walts62/ActiveDirectoryHomeLab)
-
+  
 <h2> Education:</h2>
 
 Bachelors of Science, Cybersecurity and Information Assurance (Expected July, 2024)
@@ -14,9 +13,9 @@ Bachelors of Science, Biology
 
 <h2>Certifications:</h2>
 
-  - [Comptia A+] (https://www.credly.com/earner/earned/badge/dc3ccb85-65ee-41ec-aa3d-0315f7991d8e)
+  - [Comptia A+](https://www.credly.com/earner/earned/badge/dc3ccb85-65ee-41ec-aa3d-0315f7991d8e)
   
-  - [CCNA (Certified Cisco Network Associate)] (https://www.credly.com/badges/69159662-edd2-44ba-ad3a-5a681b8adb62/public_url)
+  - [CCNA (Certified Cisco Network Associate)](https://www.credly.com/badges/69159662-edd2-44ba-ad3a-5a681b8adb62/public_url)
 
 <h2> Connect with me:</h2>
 
