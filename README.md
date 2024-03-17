@@ -7,9 +7,9 @@
 
 <h2>Education:</h2>
 
-Bachelors of Science, Cybersecurity and Information Assurance (Expected July, 2024)
+Bachelors of Science - Cybersecurity and Information Assurance Expected July, 2024
 
-Bachelors of Science, Biology July, 2022
+Bachelors of Science - Biology July, 2020
 
 <h2>Certifications:</h2>
 
