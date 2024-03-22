@@ -6,7 +6,7 @@
     
   - [Ticketing Systems](https://github.com/Walts62/Ticketing-System)
 
-<h2>Education:</h2>
+<h2>Education:</h2> 
 
 Bachelors of Science - Cybersecurity and Information Assurance (Expected Jul. 2024)
 
