@@ -14,9 +14,9 @@ Bachelors of Science - Biology (Jul. 2020)
 
 <h2>Certifications:</h2>
 
-  - [Comptia A+](https://www.credly.com/earner/earned/badge/dc3ccb85-65ee-41ec-aa3d-0315f7991d8e)
-  
-  - [Cisco Certified Network Associate (CCNA)](https://www.credly.com/badges/69159662-edd2-44ba-ad3a-5a681b8adb62/public_url)
+ - [Cisco Certified Network Associate (CCNA)](https://www.credly.com/badges/69159662-edd2-44ba-ad3a-5a681b8adb62/public_url)
+   
+- [Comptia A+](https://www.credly.com/earner/earned/badge/dc3ccb85-65ee-41ec-aa3d-0315f7991d8e)
 
 <h2> Connect with me:</h2>
 
