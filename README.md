@@ -22,9 +22,9 @@ Bachelors of Science - Biology (Jul. 2020)
 
 - [CompTIA Project+](https://www.credly.com/badges/e31066e1-e1ad-4409-b1c7-99449c31217f/public_url)
 
-- [ITIL4 Foundations]
+- ITIL4 Foundations
 
-- [LPI Linux Essentials]
+- LPI Linux Essentials
 
 
 <h2> Connect with me:</h2>
