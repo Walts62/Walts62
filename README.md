@@ -8,7 +8,7 @@
 
 <h2>Education:</h2> 
 
-Bachelors of Science - Cybersecurity and Information Assurance (Expected Jan. 2025)
+Bachelors of Science - Cybersecurity and Information Assurance (Jan. 2025)
 
 Bachelors of Science - Biology (Jul. 2020)
 
