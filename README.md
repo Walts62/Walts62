@@ -18,7 +18,11 @@ Bachelors of Science - Biology (Jul. 2020)
 
 - [(ISC)² Systems Security Certified Practitioner (SSCP)](https://www.credly.com/badges/b2d9d84d-c29e-4763-91c0-c13ff6f1befb/public_url)
 
+- [CompTIA PenTest+](https://www.credly.com/badges/e1b8316d-aff1-408a-95a1-3e0ed640da78/public_url)
+
 - [CompTIA CySA+](https://www.credly.com/badges/e11284c8-9bcc-4c06-be53-278751b83254/public_url)
+
+- [CompTIA Security+](https://www.credly.com/badges/297f33d8-c714-45f6-8237-6183b457d91c/public_url)
   
 - [CompTIA A+](https://www.credly.com/earner/earned/badge/dc3ccb85-65ee-41ec-aa3d-0315f7991d8e)
 
